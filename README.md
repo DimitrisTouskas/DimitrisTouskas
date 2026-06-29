@@ -18,7 +18,7 @@ I am a Web Developer focused on building clean, functional backend and frontend 
 
 🤖 **Most Used Languages:**
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitrisTouskas&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=DimitrisTouskas&theme=tokyonight&layout=compact)
 
 📈 **GitHub Streak:**
 <br/>
