@@ -22,5 +22,5 @@ I am a Web Developer focused on building clean, functional backend and frontend 
 ---
 
 ### 🤝 Connect with me
-* 💼 **LinkedIn:** [Dimitris Touskas](https://www.linkedin.com/in/dimitris-touskas-75759313a)
+* 💼 **LinkedIn:** [Dimitris Touskas](https://www.linkedin.com/in/dimitris-touskas-75799313a/)
 * 📧 **Email:** [jimtouskas@gmail.com]
