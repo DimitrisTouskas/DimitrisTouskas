@@ -18,7 +18,7 @@ I am a Web Developer focused on building clean, functional backend and frontend 
 
 🤖 **Most Used Languages:**
 <br/>
-![Top Langs](https://github-metrics.lecoq.io/DimitrisTouskas?template=repository-languages)
+![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=DimitrisTouskas&theme=tokyonight&layout=compact)
 
 📈 **GitHub Streak:**
 <br/>
@@ -27,5 +27,5 @@ I am a Web Developer focused on building clean, functional backend and frontend 
 ---
 
 ### 🤝 Connect with me
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/dimitris-touskas-75799313a/]
-* 📧 **Email:** [Jimtouskas@gmail.com]
+* 💼 **LinkedIn:** [Dimitris Touskas](https://www.linkedin.com/in/dimitris-touskas-75759313a)
+* 📧 **Email:** [dimtouskas@gmail.com](mailto:dimtouskas@gmail.com)
